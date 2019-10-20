@@ -1,0 +1,13 @@
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.deps.json
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.runtimeconfig.json
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.runtimeconfig.dev.json
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfo.cs
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csproj.CopyComplete
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\cfalv\Desktop\Repositorios\c#\aspnet\TutorialCleanArch\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.pdb
